@@ -4,7 +4,7 @@ Some text
 
 ##Subheader
 
-hey cocks!
+hey !
 
 ##Local Development
 
